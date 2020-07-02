@@ -5,11 +5,11 @@ We cleaned up the dataset with various digital filters and utilised Fourier Seri
 
 
 ### y-labels:
-- 1 - Recording of seizure activity
-- 2 - They recorder the EEG from the area where the tumor was located
-- 3 - Yes they identify where the region of the tumor was in the brain and recording the EEG activity from the healthy brain area
-- 4 - eyes closed, means when they were recording the EEG signal the patient had their eyes closed
-- 5 - eyes open, means when they were recording the EEG signal of the brain the patient had their eyes open
+- 1 - Recorded EEG of brain during seizure activity
+- 2 - Recorded EEG from the area where the tumor was located
+- 3 - Identified the region of the tumor was in the brain and recorded the EEG activity from the healthy brain area
+- 4 - Recorded the EEG signal when the patient had their eyes closed
+- 5 - Recorded the EEG signal when the patient had their eyes opened
 
 
 For more details, please click to view our findings with the link below:
