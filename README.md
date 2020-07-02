@@ -15,7 +15,8 @@ We cleaned up the dataset with various digital filters and utilised Fourier Seri
 For more details, please click to view our findings with the link below:
 https://github.com/leeyunfai/Predicting_Epilepsy/blob/master/Slides_JointStatement.pdf
 
-This project was completed successfully as part of the requirement for Nanyang Technological University's MA0218 – Introduction to Data Science and Artificial Intelligence course, with an A Grade.
-
 Source Data: https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
-Disclaimer : The source code that was used to implement the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.
+
+This project was completed successfully as part of the requirement for Nanyang Technological University's MA0218 – Introduction to Data Science and Artificial Intelligence course, with an A Grade. 
+
+**Disclaimer : The source code that was used to implement the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.**
