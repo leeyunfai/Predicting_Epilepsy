@@ -13,7 +13,7 @@ We cleaned up the dataset with various digital filters and utilised Fourier Seri
 
 
 For more details, please click to view our findings with the link below:
-https://github.com/leeyunfai/Predicting_Epilepsy/blob/master/Slides_JointStatement.pdf
+https://github.com/leeyunfai/Predicting_Epilepsy/blob/master/Findings.pdf
 
 Source Data: https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition
 
